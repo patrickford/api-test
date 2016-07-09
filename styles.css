@@ -1,0 +1,32 @@
+#photos {
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: 20px;
+  width: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+#search {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.pic {
+  margin: 10px;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#map {
+  height: 25%;
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+}
